@@ -6,9 +6,13 @@ body {
 
 h1, h2, h3, h4, h5, h6{
   color: blue;
-  background-color: #ffffff;
+  background-color: #006400;
 }
 
 img {
   border-color: black;
+}
+
+a:hover{
+    color:#ffffff;;
 }
