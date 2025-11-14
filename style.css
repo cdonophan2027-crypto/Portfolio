@@ -4,19 +4,7 @@ body {
   text-align: center;
 }
 
-h3 {
+h2, h3, h4, h5, h6{
   color: blue;
   background-color: #ffffff;
-}
-
-h1 {
-  color: black;
-}
-
-h2 {
-  color: black;
-}
-
-img {
-  border-color: black;
 }
