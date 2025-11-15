@@ -5,8 +5,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6{
-  color: blue;
-  background-color: #006400;
+  color: white;
+  background-color: #87CEEB;
 }
 
 img {
@@ -19,9 +19,7 @@ a:hover{
 
 /* Add stroke to text */
 .stroked-text {
-    color: white; 
     -webkit-text-stroke: 2px black;
     text-stroke: 2px black;
-    font-size: 48px;
     font-weight: bold;
 }
