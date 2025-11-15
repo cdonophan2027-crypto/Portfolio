@@ -35,13 +35,14 @@ a:hover{
   cursor: pointer;
   transition: 0.5s;
   display: inline-block;
+  background-color: #000000;  
 }
 
 
 .button:hover {
   background-color: #ffffff;
-  transform: scale(1.1);
-  border-color: #000000;
+  transform: scale(1);
+  border-color: #ffffff;
 }
 
 .button-container {
