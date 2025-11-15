@@ -16,3 +16,12 @@ img {
 a:hover{
     color:#ffffff;
 }
+
+/* Add stroke to text */
+.stroked-text {
+    color: white; 
+    -webkit-text-stroke: 2px black;
+    text-stroke: 2px black;
+    font-size: 48px;
+    font-weight: bold;
+}
