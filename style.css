@@ -24,3 +24,27 @@ a:hover{
     -webkit-text-stroke: 1px black;
     text-stroke: 1px black;
 }
+
+.button {
+  background-color: #000000;
+  color: white;
+  padding: 20px 50px;
+  margin: 20px;
+  font-size: 24px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+.button:hover {
+  background-color: #ff0000;
+  transform: scale(1.1);
+  border-color: #000000;
+}
+
+.button-container {
+  margin: 40px 0;
+}
