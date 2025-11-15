@@ -38,9 +38,9 @@ a:hover{
 
 
 .button:hover {
-  background-color: #ffffff;
+  background-color: #FFFFFF;
   transform: scale(1);
-  border-color: #ffffff;
+  border-color: #FFFFFF;
 }
 
 .button-container {
