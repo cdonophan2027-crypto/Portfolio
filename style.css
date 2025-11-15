@@ -7,6 +7,7 @@ body {
 h1, h2, h3, h4, h5, h6{
   color: white;
   background-color: #87CEEB;
+  font-family: "cursive", sans-serif;
 }
 
 img {
@@ -26,7 +27,7 @@ a:hover{
 }
 
 .button {
-  background-color: #000000;
+  background-color: #87CEEB;
   color: white;
   padding: 20px 50px;
   margin: 20px;
